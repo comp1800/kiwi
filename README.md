@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # kiwi
 feb16 demo
 
